@@ -1,0 +1,47 @@
+{
+  "categoryName": "Basic Champion Information",
+  "games": [
+    {
+      "gameid": "1",
+      "gamename": "League of Legends",
+      "gamemaker": "Riot Games",
+      "gametype": "MOBA",
+      "gamedesc": "League of Legends is a multiplayer online battle arena game, where two teams of 5 players battle against each other to destroy the others base.  There are over 100 champions to chose from to play each having their own play style. League of Legends has a reputation for bringing out the toxicity in people."
+    },
+    {
+      "gameid": "2",
+      "gamename": "World of Warcraft",
+      "gamemaker": "Blizzard Entertainment",
+      "gametype": "MMORPG",
+      "gamedesc": "World of Warcraft has been around since 2004 and even before then had 3 prequel games.  It is referred to as WoW often and has a large player base. The world is massive and there is always something to be doing in the game, whether that be questing against monsters, player killing (pvp) or even role-playing.  There are two factions with currently 6 races on each side to choose from, there are 6 expansions not including the original game and more to come."
+    },
+    {
+      "gameid": "3",
+      "gamename": "Hearthstone",
+      "gamemaker": "Blizzard Entertainment",
+      "gametype": "Collectable Card Game",
+      "gamedesc": "Blizzard has taken their trading card game and made it into an online game, the only difference is that there is no need to manually calculate your hit points and what not.  It is a rather fun game that has a pve mode and pvp mode.  Card backs are somewhat customizable as you can choose which skin you would like, based on what you have unlocked."
+
+    },
+    {
+      "gameid": "4",
+      "gamename": "Heroes of the Storm",
+      "gamemaker": "Blizzard Entertainment",
+      "gametype": "MOBA",
+      "gamedesc": "Heroes of the Storm or HotS is very much like League of Legends but more simple.  There are no items, there are mounts to move around and there are no set champions where they only can be in one lane.  Players are still toxic at times but there is no way to communicate with the enemy team and exeperience is shared with the team so no one player gets fed or overpowered."
+    },
+    {
+      "gameid": "5",
+      "gamename": "Dead by Daylight",
+      "gamemaker": "Behaviour Interactive",
+      "gametype": "Survival Horror Online Multiplayer",
+      "gamedesc": "Dead by Daylight is my favorite game at the moment. It is available on steam. It is 4 survivors against 1 supernatural killer that hunts down the survivors who are in turn trying to repair and power up 5 generators.  Survivors are sacrificed to The Entity by the Killer if they are placed on a large meat hook.  Survivors can save other survivors or decide to leave them on the hook to die.  There is no chat in game, only in the lobby between the survivors, who do not know what killer they will be facing until in game and they see for themselves.  Killers all have a special ability unique to that killer.  Killers include The Shape aka Michael Myers, The Nightmare aka Freddy Krueger and The Doctor; which shocks the survivors within range and sends them into madness. Despite killers being super powerful and not able to be attacked, it is hard to get all 4 survivors sacrificed though like with any game there are people that are salty when they lose.  Leavers happen regularly as whatever items a survivor is carrying will be lost if they are sacrificed."
+    },
+    { "gameid": "6",
+      "gamename": "Fran Bow",
+      "gamemaker": "Killmonday Games, Killmonday Games HB",
+      "gametype": "Point and click",
+      "gamedesc": "Fran Bow is a pshcological horror adventure game where the player is Fran Bow a young girl whose parents were brutally murdered by an unknown entity.  The further one gets in the game, the more messed up the world becomes but in the end Fran Bow is successful on finding out her true self and who really killed her parents."
+    }
+  ]
+}

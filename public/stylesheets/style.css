@@ -1,0 +1,22 @@
+
+body {
+    background-color: #e3dcb2;
+    background-image: url("../images/teedersdesignback.png");
+    background-repeat: no-repeat;
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #000000;
+    font-weight: bold;
+}
+
+#artemishome {
+    width: 150px;
+}
+
+th {
+    background-color: #8a8365;
+}
+

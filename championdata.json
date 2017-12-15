@@ -1,0 +1,102 @@
+{
+  "categoryName": "Basic Champion Information",
+  "champions": [
+    {
+      "championID": "100",
+      "championName": "Illaoi",
+      "whatLaneCanGo": "Anywhere but ADC",
+      "whatLanePref": "Top & Jungle",
+      "passiveAbility": "Prophet of an Elder God",
+      "qAbility": "Tentacle Smash",
+      "wAbility": "Harsh Lesson",
+      "eAbility": "Test of Spirit",
+      "rAbility": "Leap of Faith",
+      "championAbout": "Illaoi is sometimes called Tentacle 'witch' as she relies a lot on the tentacles that spawn with her passive, that does not mean she is a walk in the park to go against. If built properly and fed decently Illaoi is one of the few champions that I have seen that can take on the whole enemy team and live."
+    },
+    {
+      "championID": "200",
+      "championName": "Kindred",
+      "whatLaneCanGo": "Anywhere but support",
+      "whatLanePref": "Bot, Mid & Jungle",
+      "passiveAbility": "Mark of the Kindred",
+      "qAbility": "Dance of Arrows",
+      "wAbility": "Wolf's Frenzy",
+      "eAbility": "Mounting Dread",
+      "rAbility": "Lamb's Respite",
+      "championAbout": "Kindred is fun to play but also squishy early game.  As a jungler she is slower to clear her side but the banter between Lamb and Wolf is amusing to hear. Her R ability makes it a great team fight as those that are in the circle can not be killed while inside it and all champions are healed that are inside it; friend or foe."
+    },
+    {
+      "championID": "300",
+      "championName": "Twitch",
+      "whatLaneCanGo": "Anywhere but support",
+      "whatLanePref": "Bot & Jungle",
+      "passiveAbility": "Deadly Venom",
+      "qAbility": "Ambush",
+      "wAbility": "Venom Cask",
+      "eAbility": "Contaminate",
+      "rAbility": "Spray and Pray",
+      "championAbout": "Twitch is fun to play if his kit is used properly. A fed enemy Twitch is a nightmare as he is very capable of one shoting most squishy support champions. It is best to keep an enemy ADC Twitch shut down as he is very hard if not impossible to kill once full build."
+    },
+    {
+      "championID": "400",
+      "championName": "Ornn",
+      "whatLaneCanGo": "Top, jungle, support",
+      "whatLanePref": "Top & Jungle",
+      "passiveAbility": "Living Forge",
+      "qAbility": "Volcanic Rupture",
+      "wAbility": "Bellows Breath",
+      "eAbility": "Searing Charge",
+      "rAbility": "Call of the Forge God",
+      "championAbout": "Ornn is a grumpy goat like demi god that carries around a portable forge. His demanor and interactions are amusing. He is the newest of the champions and not many play him as players feel he isn't that powerful. He also is very slow at walking..."
+    },
+    {
+      "championID": "500",
+      "championName": "Soraka",
+      "whatLaneCanGo": "Apparently anywhere, except ADC",
+      "whatLanePref": "Support",
+      "passiveAbility": "Salvation",
+      "qAbility": "Starcall",
+      "wAbility": "Astral Infusion",
+      "eAbility": "Equinox",
+      "rAbility": "Wish",
+      "championAbout": "Soraka is my main, she is the first champion I bought and learned to play. She is my bae and I most of the time wear her Reaper skin since it's no longer available except in the hextech system. When I want to win and not work on my other champions, I play Soraka. I am mastery 7 on her which is the highest anyone can be currently."
+    },
+    {
+      "championID": "600",
+      "championName": "Sona",
+      "whatLaneCanGo": "Mid & Support",
+      "whatLanePref": "Support",
+      "passiveAbility": "Power Chord",
+      "qAbility": "Hymn of Valor",
+      "wAbility": "Aria of Perserverance",
+      "eAbility": "Song of Celerity",
+      "rAbility": "Crescendo",
+      "championAbout": "Sona is a mute, where only the player aka Summoner can hear her thoughts.  She floats basically with what is basically a keyboard synthesizer with a fancy name that I can't remember.  She heals, gives a buff and can improve movement speed.  Her R ability if aimed properly can stun enemies by making them dance for 1.5 seconds. Giving everyone time to flee or to continue the fight as the enemies are still targetable."
+    },
+    {
+      "championID": "700",
+      "championName": "Teemo",
+      "whatLaneCanGo": "Anywhere",
+      "whatLanePref": "Anywhere",
+      "passiveAbility": "Guerrilla Warfare",
+      "qAbility": "Blinding Dart",
+      "wAbility": "Move Quick",
+      "eAbility": "Toxic Shot",
+      "rAbility": "Noxious Trap",
+      "championAbout": "Teemo is called satan on League of Legends. He E allows all of his basic attacks to poison whatever he is shooting, plus his R leaves placed mushrooms around that slow and poison whoever or whatever walks into them as long as it neutral or an enemy. Despite this Teemo is really easy to kill, if you can catch him and his poison can be countered with magic resistance. The main part is that his passive gives him stealth if he's still for an amount of time and his mushrooms stealth as well."
+    }
+  ],
+  "contact":  [
+    {
+      "contactEmail": "teeders28@gmail.com",
+      "greeting": "Hello and welcome to the contact page! Here you will be able to contact me on various platforms.",
+      "steam": "teeders1548",
+      "twitch": "eesane",
+      "youtube": "teeders",
+      "snapchat": "aprilteeders",
+      "twitter": "@aprilteeders"
+
+    }
+  ]
+
+}
